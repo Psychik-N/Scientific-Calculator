@@ -1,0 +1,7 @@
+- name: Pull and Run docker image
+  hosts: all
+  tasks:
+    - name: Pull psychik/scientific_calculator
+      docker_image:
+        name: psychik/scientific_calculator
+        source: pull
