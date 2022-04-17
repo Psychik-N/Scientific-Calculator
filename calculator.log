@@ -6,3 +6,7 @@
 15/Apr/2022:23:21:19 067 [Calculator.java] [INFO] calculator.Calculator [RESULT] - 6
 15/Apr/2022:23:21:19 068 [Calculator.java] [INFO] calculator.Calculator [FACTORIAL] - 4
 15/Apr/2022:23:21:19 069 [Calculator.java] [INFO] calculator.Calculator [RESULT] - 24
+17/Apr/2022:10:48:35 526 [Calculator.java] [INFO] calculator.Calculator [FACTORIAL] - 3
+17/Apr/2022:10:48:35 533 [Calculator.java] [INFO] calculator.Calculator [RESULT] - 6
+17/Apr/2022:10:48:35 534 [Calculator.java] [INFO] calculator.Calculator [FACTORIAL] - 4
+17/Apr/2022:10:48:35 534 [Calculator.java] [INFO] calculator.Calculator [RESULT] - 24
