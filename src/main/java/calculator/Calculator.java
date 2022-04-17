@@ -91,7 +91,7 @@ public class Calculator {
         logger.info(LOG_SQ + num);
         double result = Math.sqrt(num);
         logger.info(LOG_RESULT + result);
-        return num;
+        return result;
     }
 
     public static double computePower(double num1, double num2) {
