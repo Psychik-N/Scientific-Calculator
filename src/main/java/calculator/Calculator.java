@@ -22,7 +22,7 @@ public class Calculator {
         Scanner scanner = new Scanner(System.in);
         while(true) {
             System.out.println("\nChoose Your Option");
-            System.out.print("1 - Factorial\n2 - Square Root\n3 - Natural Logarithm\n4 - Power\n5 - exit\n");
+            System.out.print("1 - Factorial\n2 - Square Root\n4 - Power\n3 - Natural Logarithm\n5 - exit\n");
             int option;
             try {
                 option = scanner.nextInt();
